@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+}
+#submit_button{
+    margin:20px;
+}
+#sort_button{
+    margin:20px;
+    display:none;
+}
+input{
+    margin: 10px;
+}
